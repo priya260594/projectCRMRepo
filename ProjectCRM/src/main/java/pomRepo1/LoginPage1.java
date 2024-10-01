@@ -26,6 +26,10 @@ public WebElement getUserTextField() {
 	public WebElement getLoginButton() {
 		return LoginButton;
 	}
+	public WebElement getLoginButton() {
+		return LoginButton;
+	}
+	
 }
 
 
